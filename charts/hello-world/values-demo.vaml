@@ -3,6 +3,9 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
+fileValue:
+  name: "filename"
+  value: "filevalue"
 
 image:
   repository: nginx
